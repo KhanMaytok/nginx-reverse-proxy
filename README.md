@@ -5,7 +5,7 @@ Proxy de tickets para aplicaciones desplegadas en el mismo CapRover.
 Una peticion publica como:
 
 ```text
-https://bifrost.maytok.com/empresa-ejemplo/123e4567-e89b-12d3-a456-426614174000
+https://bifrost.maytok.com/empresa-ejemplo/invoice/pdf/80mm/123e4567-e89b-12d3-a456-426614174000
 ```
 
 se envia internamente a:
