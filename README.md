@@ -11,7 +11,7 @@ https://bifrost.maytok.com/empresa-ejemplo/123e4567-e89b-12d3-a456-426614174000
 se envia internamente a:
 
 ```text
-http://srv-captain--encomiendas-empresa-ejemplo/courier/pdf-ticket/80mm/123e4567-e89b-12d3-a456-426614174000
+http://srv-captain--encomiendas-empresa-ejemplo/pdf-ticket/80mm/123e4567-e89b-12d3-a456-426614174000
 ```
 
 ## Agregar empresas
